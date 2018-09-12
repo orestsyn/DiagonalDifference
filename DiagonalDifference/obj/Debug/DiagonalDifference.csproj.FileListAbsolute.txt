@@ -1,0 +1,7 @@
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.pdb
+D:\VisualProjects\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csprojAssemblyReference.cache
